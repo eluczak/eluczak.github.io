@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+h1, h2, h3 {
+	/*font-family: sans-serif;*/
+}
+
+h1.header {
+	/*font-family: sans-serif;*/
+}
+
+a.buttons {
+	display: none;
+}
+
+a.github {
+	display: none;
+}
+
+h1.header, a.header, a.name, header a {
+	color: #232323;
+}
+
+header ul {
+	display: none;
+}
+
+header {
+	background: none;
+	border: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+a {
+	/*font-weight: normal;*/
+	color: #d04908;
+}
+
